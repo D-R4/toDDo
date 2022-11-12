@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@400;700&display=swap');
+
+.task{
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 20px;
+    
+  }
+  .item-text{
+    text-decoration: none;
+
+  }
+
+   .strike{
+    text-decoration-line: line-through;
+  }
+  
